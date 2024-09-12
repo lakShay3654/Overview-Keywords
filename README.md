@@ -21,15 +21,22 @@ A network interface card (NIC) is a hardware component, typically a circuit boar
 It is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment
 
 ### OSI Model: 7 Layers of Networking
+
 The OSI model is a framework that standardizes communication functions. It consists of 7 layers, divided into hardware layers and software layers:
 
-• Physical Layer: Manages physical connections between devices, transmitting raw data.
-• Data Link Layer: Ensures data transfer within the same network using MAC addresses.
-• Network Layer: Routes data between networks using IP addresses.
-• Transport Layer: The "heart" of OSI, ensures reliable data delivery with protocols like TCP and UDP.
-• Session Layer: Manages communication sessions between devices.
-• Presentation Layer: Translates data formats and handles encryption and compression.
-• Application Layer: Interacts with the user through applications like web browsers and email.
+• **Physical Layer**: Manages physical connections between devices, transmitting raw data.
+
+• **Data Link Layer**: Ensures data transfer within the same network using MAC addresses.
+
+• **Network Layer**: Routes data between networks using IP addresses.
+
+• **Transport Layer**: The "heart" of OSI, ensures reliable data delivery with protocols like TCP and UDP.
+
+• **Session Layer**: Manages communication sessions between devices.
+
+• **Presentation Layer**: Translates data formats and handles encryption and compression.
+
+• **Application Layer**: Interacts with the user through applications like web browsers and email.
 
 ## Operating Systems:
 
