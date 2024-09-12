@@ -48,7 +48,7 @@ Blockchain technology records and confirms cryptocurrency trades, like a digital
 ### Open Source:
 Open source refers to software whose source code is made available to the public for anyone to view, use, modify, and distribute. This model promotes collaboration and transparency.
 
-###Closed Source: 
+### Closed Source: 
 Proprietary software that doesn't allow users to view or modify its source code.
 
 ## Framework:
